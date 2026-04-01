@@ -88,53 +88,31 @@ If you would like to support me or any of my projects, you can send a donation t
 | **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
 
 <details open>
-<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
+<summary><a name="diplomas"><a/><h2>Course Fullstack</h2></summary>
     <div align="center">
-        <img src="./assets/patents/1.png" width=200 alt=""/>
-        <img src="./assets/patents/1_1.png" width=200 alt=""/>
+        <a href="./assets/certificates-fullstack/sertifikat1.pdf"><img src="https://img.shields.io/badge/Sertifikat-1-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat2.pdf"><img src="https://img.shields.io/badge/Sertifikat-2-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat3.pdf"><img src="https://img.shields.io/badge/Sertifikat-3-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat4.pdf"><img src="https://img.shields.io/badge/Sertifikat-4-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat5.pdf"><img src="https://img.shields.io/badge/Sertifikat-5-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat6.pdf"><img src="https://img.shields.io/badge/Sertifikat-6-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertfikat7.pdf"><img src="https://img.shields.io/badge/Sertifikat-7-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat8.pdf"><img src="https://img.shields.io/badge/Sertifikat-8-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat9.pdf"><img src="https://img.shields.io/badge/Sertifikat-9-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat10.pdf"><img src="https://img.shields.io/badge/Sertifikat-10-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat11.pdf"><img src="https://img.shields.io/badge/Sertifikat-11-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat12.pdf"><img src="https://img.shields.io/badge/Sertifikat-12-blue?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-fullstack/sertifikat_pyhton.pdf"><img src="https://img.shields.io/badge/Sertifikat-Python-blue?style=for-the-badge&logo=python" /></a>
     </div>
 </details>
 
 <details open>
-<summary><a name="diplomas"><a/><h2>🏆 Prize places and diplomas</h2></summary>
+<summary><a name="significant-certificates"><a/><h2>⚜️ Timedoor Academy</h2></summary>
     <div align="center">
-        <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
-        <img src="./assets/diploms/Международный-ВШЭ-Дроны.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
-        <img src="./assets/diploms/Международный-ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
-        <img src="./assets/diploms/Диплом-Минина.png" width=200 alt="MininCode Диплом"/>
-        <img src="./assets/diploms/IT-Чкалов.png" width=200 alt="IT чкалов"/>
-    </div>
-</details>
-
-<details open>
-<summary><a name="significant-certificates"><a/><h2>⚜️ Significant certificates</h2></summary>
-<img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
-<img src="./assets/significant-certificates/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
-<img src="./assets/significant-certificates/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
-<img src="./assets/significant-certificates/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
-<img src="./assets/significant-certificates/Сертификат-Минина.png" width=200 alt="MininCode сертификат"/>
-</details>
-
-<details close>
-<summary><a name="certificates"><a/><h2>🗂 Ordinary Certificates</h2></summary>
-    <div align="center">
-        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
-        <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
-        <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
-        <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
-        <img src="./assets/certificates/Comparison-ResumeVacancy.png" width=200 alt="Comparison ResumeVacancy"/>
-        <img src="./assets/certificates/траектория-будущего-python.png" width=200 alt="траектория будущего python"/>
-        <img src="./assets/certificates/траектория-будущего-мобильная-разработка.png" width=200 alt="траектория будущего мобильная разработка"/>
-        <img src="./assets/certificates/траектория-будущего-devops.png" width=200 alt="траектория будущего devops"/>
-        <img src="./assets/certificates/траектория-будущего-нейросетевое-искусство.png" width=200 alt="траектория будущего нейросетевое искусство"/>
-        <img src="./assets/certificates/траектория-будущего-кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
-        <img src="./assets/certificates/траектория-будущего-графический-дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
-        <img src="./assets/certificates/траектория-будущего-финансовая-грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
+        <a href="./assets/certificates-timedoor/Python%20for%20Data%20Science%20-%20Rafka%20Rahmansyah.pdf"><img src="https://img.shields.io/badge/Python%20for%20Data%20Science-red?style=for-the-badge&logo=python" /></a>
+        <a href="./assets/certificates-timedoor/Rafka%20Rahmansyah%20Certificate.pdf"><img src="https://img.shields.io/badge/Rafka%20Rahmansyah%20Certificate-red?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-timedoor/Rafka_Teens_Teens%20Websites%20Developer%2024_1.pdf"><img src="https://img.shields.io/badge/Teens%20Websites%20Developer-red?style=for-the-badge&logo=googledocs" /></a>
+        <a href="./assets/certificates-timedoor/Teens%20JavaScript%20Programmer%20-%20Rafka.pdf"><img src="https://img.shields.io/badge/Teens%20JavaScript%20Programmer-red?style=for-the-badge&logo=javascript" /></a>
     </div>
 </details>
 
